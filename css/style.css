@@ -188,4 +188,29 @@ span {
     max-width: 100%;
 }
 
-/* support section */
+/* hot deal section */
+.hot-deal {
+    background-color: rgba(229, 84, 115, 5%);
+    margin-top: 100px;
+}
+
+.hot-deal-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.hot-deal-section {
+    width: 40%;
+    text-align: center;
+    padding: 180px 70px 100px 20px;
+}
+
+.flower-section {
+    padding: 60px;
+}
+
+.hot-deal-flower {
+    height: 100%;
+}
