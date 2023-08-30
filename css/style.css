@@ -214,3 +214,15 @@ span {
 .hot-deal-flower {
     height: 100%;
 }
+
+/* Instagram Section  */
+#instagram {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.instagram-flower-section {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
